@@ -1,0 +1,30 @@
+# ===========================
+# Ignorar arquivos e pastas locais do Eclipse
+# ===========================
+.settings/
+.classpath
+.project
+
+# ===========================
+# Ignorar arquivos compilados do Java
+# ===========================
+bin/
+*.class
+
+# ===========================
+# Ignorar arquivos temporários e de log
+# ===========================
+*.log
+*.tmp
+*.bak
+*.swp
+
+# ===========================
+# Ignorar arquivos do sistema operacional
+# ===========================
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
